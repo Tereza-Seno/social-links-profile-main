@@ -32,7 +32,7 @@ The design uses a dark mode with contrasting accents and the modern Inter font.
 
 ## How to use ▶️
 
-Just open `index.html` in your browser to see the profile card. You can easily update the social media links directly in the HTML.
+Just open `index.html` in your browser to see the profile card.
 
 ---
 
@@ -81,7 +81,7 @@ Design využívá tmavý režim s kontrastními akcenty a moderní písmo Inter.
 
 ## Jak projekt používat ▶️
 
-Stačí otevřít soubor `index.html` v prohlížeči a můžeš si prohlédnout svou profilovou kartu. Odkazy na sociální sítě můžeš snadno upravit přímo v HTML.
+Stačí otevřít soubor `index.html` v prohlížeči a můžeš si prohlédnout profilovou kartu.
 
 ---
 
